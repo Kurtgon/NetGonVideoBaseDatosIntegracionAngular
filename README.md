@@ -8,6 +8,9 @@ Requisitos.
 
 - Tener instalado Spring Tool Suite, para la parte backend.
 - Utilizar algún navegador web para la parte frontend.
+- Tener instalado docker ( en este caso lo tengo instalado en una máquina virtual para poder levantar mysql)
+- Si se utiliza una máquina virtual para la base de datos hay que poner en el archivo application.properties del proyecto la ip de la máquina virtual
+junto al nombre de la base de datos spring.datasource.url=jdbc:mysql://192.168.1.133:3306/db_netGonVideo)
 
 ## Preparación del entorno ##
 
