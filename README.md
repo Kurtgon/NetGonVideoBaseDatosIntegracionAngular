@@ -11,8 +11,8 @@ Requisitos.
 
 ## Preparación del entorno ##
 
-- Descargamos el backend de: https://github.com/
-- Descargamos el frontend de: 
+- Descargamos el backend de: https://github.com/Kurtgon/NetGonVideoBaseDatosIntegracionAngular
+- Descargamos el frontend de: https://github.com/Kurtgon/NetGonVideoBaseDatos
 
 ## Backend ##
 
